@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleSignIn</string>
+    <string name="create_your_google_account">Create Your Google Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">Username</string>
+    <string name="use_my_current_email_address_instead">Use my current email address instead</string>
+    <string name="sign_in_instead">Sign in insted</string>
+</resources>
