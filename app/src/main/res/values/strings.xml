@@ -6,4 +6,8 @@
     <string name="username">Username</string>
     <string name="use_my_current_email_address_instead">Use my current email address instead</string>
     <string name="sign_in_instead">Sign in insted</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="show_password">Show Password</string>
+    <string name="next">Next</string>
 </resources>
